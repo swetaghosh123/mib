@@ -1,1 +1,3 @@
-var abc= 'abs';
+var abj= 'abs';
+var test="ab";
+var tb='test';
